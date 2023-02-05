@@ -1,5 +1,25 @@
 html, body {
     height: 100%;
-    width: 100%;
+    width: 99%;
     background-color: rgb(25, 27, 27);
   }
+
+.buttonb {
+    border-radius: 8px;
+    height: 300px;
+    width: 443px;
+    background-color: rgb(75, 75, 243);
+}
+
+.buttons {
+    border-radius: 8px;
+    height: 300px;
+    width: 443px;
+}
+
+.buttonh {
+    border-radius: 8px;
+    height: 300px;
+    width: 443px;
+    background-color: rgb(3, 110, 3);
+}
